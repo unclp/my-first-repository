@@ -1,0 +1,17 @@
+# Technische Roadmap – Uncle P AI
+
+Dieses Repository dient als Technical Foundation. Hier werden die Systeme und Architekturentscheidungen für Uncle P AI dokumentiert und versioniert.
+
+## Geplante Systeme und Einsatzfelder
+
+- [ ] Kunden- und Projektmanagementsysteme
+- [ ] Interne Wissensdatenbank und Dokumentationssysteme
+- [ ] Eigene KI-Assistenten und Fachagenten
+- [ ] API- und Tool-Integrationen
+- [ ] Automatisierte interne Geschäftsprozesse
+- [ ] Systemüberwachung und Qualitätsmanagement
+
+## Architektur-Prinzipien
+- Erst verstehen, dann bauen.
+- Änderungen werden lokal vorbereitet und geprüft.
+- Keine sensiblen Daten (API-Keys, Kundeninfos) im Repository.
